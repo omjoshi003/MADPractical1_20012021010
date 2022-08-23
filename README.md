@@ -5,6 +5,8 @@ Questions
 Question 1 : Store & Display values in different variable of different type (Integer, Double, Float, Long, Short, Byte, Char, Boolean, String)
 Solution :
 Output :
+
+
 Question 2 : Type conversion - Integer to Double, String to Integer, String to Double
 Solution :
 Output :

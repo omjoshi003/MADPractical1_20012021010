@@ -3,11 +3,14 @@ fun main()
     val obj = ArrayList<Laptop> (6)
 
     obj.add(Laptop())
-    obj.add(Laptop("Core i9",4,4000,"Acer Laptop",1,50000))
-    obj.add(Laptop("Core i5",4,1000,"Lenovo Laptop",1,65000))
-    obj.add(Laptop("Core i3",8,1000,"Asus Laptop",1,75000))
+
     obj.add(Laptop("Ryzen 9",18,2000,"Dell Laptop",1,85000))
+    obj.add(Laptop("Core i5",4,1000,"Lenovo Laptop",1,65000))
     obj.add(Laptop("Ryzen 7",4,10000,"Dell Laptop",1,100000))
+    obj.add(Laptop("Core i9",4,4000,"Acer Laptop",1,50000))
+    obj.add(Laptop("Core i3",8,1000,"Asus Laptop",1,75000))
+
+
 
     for (i in obj)
     {
@@ -34,7 +37,7 @@ class Laptop(
 ) : Product(name, qty, amt)
 {
 
-    constructor() : this("None", 0, 0, "None", 0, 0)
+    constructor() : this("None...", 0, 0, "None....", 0, 0)
     {
         println("Secondary Constructor")
     }

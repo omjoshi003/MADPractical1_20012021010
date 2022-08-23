@@ -3,11 +3,11 @@ fun main()
     val obj = ArrayList<Student> (6)
 
     obj.add(Student())
-    obj.add(Student("30002001001","CE","C","AB7","Rahul","Agarwal",19))
-    obj.add(Student("T20012021050","IT","D","AB14","Om","Patel", 22))
-    obj.add(Student("20112022222","CE","A","AB2","Chirag","Patel",19))
-    obj.add(Student("20012022123","IT","D","AB5","Droan","Acharya", 18))
-    obj.add(Student("21112022010","CE-AI","B","AB6","Rohan","Patel",17))
+    obj.add(Student("20012021010","CE","C","AB7","om ","joshi",21))
+    obj.add(Student("20012021066","IT","A","AB4","Smit","Thakkar", 20))
+    obj.add(Student("20012021053","CE","C","AB1","Sanjay","Sukhwani",22))
+    obj.add(Student("20012021058","IT","B","AB6","Aryan ","Soni", 20))
+    obj.add(Student("20012021070","CE-AI","C","AB15","Darshan","Vasoya",21))
 
     for (i in obj)
     {
@@ -28,7 +28,7 @@ open class Person(private val fname: String, private val lname: String, private 
 class Student(private val enroll: String,private val branch: String,private val Class: String,private val batch: String,fname: String,lname: String,age: Int) : Person(fname, lname, age)
 {
 
-    constructor() : this("NaN", "NaN", "NaN", "NaN", "NaN", "NaN", 0)
+    constructor() : this("Nun", "Nun", "Nun", "Nun", "Nun", "NuN", 0)
     {
         println("Secondary Constructor")
     }

@@ -59,24 +59,39 @@ Output :
 Question 6 : By using a user defined function, perform all arithmetic operations
 
 Solution :
+![image](https://user-images.githubusercontent.com/79136871/186598902-6034c101-5fa7-4b41-abfc-a23292e7aabd.png)
 
 Output :
+![image](https://user-images.githubusercontent.com/79136871/186598947-c3010ec5-8bc3-405c-b879-0274216f5519.png)
+
 
 Question 7 : Find the factorial of number by recursion. Explain "tailrec" keyword.
 
 Solution :
+![image](https://user-images.githubusercontent.com/79136871/186599025-b2c56592-88dc-423b-bf4d-e0476f34d784.png)
 
 Output :
+![image](https://user-images.githubusercontent.com/79136871/186599110-59d36fda-88ba-4c51-87d8-76e4d45277e3.png)
+
 
 Question 8 : Create different types of Array as shown in image. Explore Arrays.deepToString(), contentDeepToString() methods, IntArray variable .joinToString() and use in program to print Array. Explore range, downTo, until etc. for loop and use in this program. Sort Array of Integer data type without using inbuilt function & with using inbuilt function
 
 Solution :
+![image](https://user-images.githubusercontent.com/79136871/186599446-fc4179fd-d29d-4fcf-99a0-4736878b34b2.png)
+
+![image](https://user-images.githubusercontent.com/79136871/186599515-184a9fdc-3cdb-49f1-83f0-3d05ce578fda.png)
+
+![image](https://user-images.githubusercontent.com/79136871/186599548-d1df6536-64e7-4be4-a497-101fd0900757.png)
+
 
 Output :
+
+
 
 Question 9 : Find the max number from ArrayList.
 
 Solution :
+![image](https://user-images.githubusercontent.com/79136871/186599711-b8ae5c98-c129-46f1-9fae-6f21d8b2f7cf.png)
 
 Output :
 

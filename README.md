@@ -85,6 +85,9 @@ Solution :
 
 
 Output :
+![image](https://user-images.githubusercontent.com/79136871/186614432-76df84fd-b81e-4257-8715-2077e74e439e.png)
+
+![image](https://user-images.githubusercontent.com/79136871/186614490-02302d5a-df11-4813-8b92-41ab16eb599a.png)
 
 
 
@@ -95,15 +98,32 @@ Solution :
 
 Output :
 
+![image](https://user-images.githubusercontent.com/79136871/186615192-6da3a199-4e0e-44c4-b1c8-f7da00a226b6.png)
+
+
 Question 10 : Write Different types of Class & Constructor. Create a class Car and set various members like type, model, price, owner. add the function getCarPrice in it. Create an object of Car class and access property of it. (getCarInformation(), getOriginalCarPrice(), getCurrentCarPrice(), displayCarInfo() etc.)
 
 Solution :
+![image](https://user-images.githubusercontent.com/79136871/186615343-ba708566-f0d8-4a2e-81d0-3a9644b6658d.png)
+
+![image](https://user-images.githubusercontent.com/79136871/186615421-0895b7f7-3b3c-430a-b010-b37f07470dc1.png)
+
+![image](https://user-images.githubusercontent.com/79136871/186615466-2edf863a-bf26-4653-a6bc-341cedf91a2f.png)
+
 
 Output :
+
+![image](https://user-images.githubusercontent.com/79136871/186616011-99b8f577-ca6b-418b-916a-a1a1a471f018.png)
+
+![image](https://user-images.githubusercontent.com/79136871/186616075-aa49bef9-b7e2-40c6-92cf-e76a64166fa0.png)
 
 Question 11 : Write about Operator Overloading. Perform Matrix Addition, Subtraction & Multiplication using Class & operator overloading. Overload toString() function in Matrix class.
 
 Solution :
+![image](https://user-images.githubusercontent.com/79136871/186616161-ece57f4c-d306-40e3-a7b0-3bcd7786741a.png)
+
+![image](https://user-images.githubusercontent.com/79136871/186616217-31f2a4d7-0d25-4137-83e2-8ae58d1071f2.png)
+
 
 Output :
 

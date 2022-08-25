@@ -132,8 +132,6 @@ Output :
 
 ![image](https://user-images.githubusercontent.com/79136871/186616903-f3ee3f7c-4379-44e1-99e3-fc7789da824a.png)
 
-
-
 EXERCISES: KOTLIN PROGRAMS
 
 Exercise 1 : Swap Value of two variables without using third variable and with using third variable.

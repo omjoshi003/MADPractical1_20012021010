@@ -124,8 +124,14 @@ Solution :
 
 ![image](https://user-images.githubusercontent.com/79136871/186616217-31f2a4d7-0d25-4137-83e2-8ae58d1071f2.png)
 
+![image](https://user-images.githubusercontent.com/79136871/186616479-62b65bd8-6bf5-4d35-a5ae-b9ac021c2858.png)
+
 
 Output :
+![image](https://user-images.githubusercontent.com/79136871/186616815-275e74f1-4323-47cb-a956-9b907a55d3d4.png)
+
+![image](https://user-images.githubusercontent.com/79136871/186616903-f3ee3f7c-4379-44e1-99e3-fc7789da824a.png)
+
 
 
 EXERCISES: KOTLIN PROGRAMS
@@ -133,8 +139,11 @@ EXERCISES: KOTLIN PROGRAMS
 Exercise 1 : Swap Value of two variables without using third variable and with using third variable.
 
 Solution :
+![image](https://user-images.githubusercontent.com/79136871/186617150-a35c4621-cc24-4c38-b3e9-ea571d2fd142.png)
 
 Output :
+![image](https://user-images.githubusercontent.com/79136871/186617234-dc9eae23-0e83-4658-a577-f2f3ccd4770e.png)
+
 
 Exercise 2:	Create two class named as Product and Laptop. Inherit with this information: Product class should be parent and child class should be Laptop class. 
 Add Product Name, Quantity, Amount per Quantity in Product class. In Laptop class add CPU name, RAM size, HDD Size, etc. of Laptop configuration. 
@@ -144,8 +153,16 @@ If we can create secondary and primary constructor both in child class then what
 Create List of 5 laptops in ArrayList and display all objects information.
 
 Solution :
+![image](https://user-images.githubusercontent.com/79136871/186617436-e05cd938-7a59-4197-9d71-80788b48d3ee.png)
+
+![image](https://user-images.githubusercontent.com/79136871/186617505-3e5f5aab-29ea-4a7f-b025-4d0ef6d7f518.png)
+
 
 Output :
+![image](https://user-images.githubusercontent.com/79136871/186617658-2107b021-7274-4487-8d96-70a7f7299c5d.png)
+
+![image](https://user-images.githubusercontent.com/79136871/186617744-855acbc1-930c-4bce-8b25-acbbec6907d0.png)
+
 
 Exercise 3:	Create two class named as Person and Student. Inherit with this information: Person class should be parent and child class should be Student class. 
 Add first name, last name, age in Person class. In Laptop class add enrollment no, branch, class, lab batch, etc. 
@@ -153,7 +170,16 @@ Create primary and secondary Constructor of both class.
 Create List of 5 students in ArrayList and display all objects information.
 
 Solution :
+![image](https://user-images.githubusercontent.com/79136871/186617863-801c619b-6b8a-45f1-b29a-66d047ec19ce.png)
+
+![image](https://user-images.githubusercontent.com/79136871/186617949-ac15e8c6-24c4-4f46-a00b-b2db35c14cbc.png)
+
+![image](https://user-images.githubusercontent.com/79136871/186618012-1e93947f-5a01-4588-9768-8f0db50ef0f9.png)
+
 
 Output :
+![image](https://user-images.githubusercontent.com/79136871/186618117-6e3759ef-ed0e-4059-b4b1-899bad9dc246.png)
 
+![image](https://user-images.githubusercontent.com/79136871/186618212-f2136560-3c0b-4cd0-a634-7f9185eaa5d5.png)
 
+![image](https://user-images.githubusercontent.com/79136871/186618269-47d2feef-a086-4624-8a30-cc671fd5f118.png)
